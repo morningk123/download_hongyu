@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/xinghong/IOS/xinghong.ipa</string>
+                        <string>http://appdown.zfpai.com/hongyu/IOS/xinghong.ipa</string>
                     </dict>
                     
                     <dict>
@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/xinghong/IOS/60.png</string>
+                        <string>http://appdown.zfpai.com/hongyu/IOS/60.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/xinghong/IOS/60.png</string>
+                        <string>http://appdown.zfpai.com/hongyu/IOS/60.png</string>
                     </dict>
                 </array>
                 
@@ -38,7 +38,7 @@
                 
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xinghong.cs</string>
+                    <string>com.hongyu.cs</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
